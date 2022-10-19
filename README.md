@@ -2,8 +2,8 @@
 Repository for KOLD dataset, paper accepted in [EMNLP 2022](https://2022.emnlp.org). 
 
 ### Paper
-[arXiv version](https://arxiv.org/abs/2205.11315)
-Camery-ready version link TBA
+[KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315) (arXiv version)  
+_Camery-ready version link TBA_
 
 ### Dataset
 Example of Dataset
