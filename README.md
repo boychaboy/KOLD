@@ -6,7 +6,7 @@ Repository for KOLD dataset, paper accepted in [EMNLP 2022](https://2022.emnlp.o
 _Camery-ready version link TBA_
 
 ### Dataset
-Example of Dataset
+Sample of Dataset
 ```
 [
 	{
