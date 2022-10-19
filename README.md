@@ -16,7 +16,7 @@ _Camera-ready version link TBA_
 <img src="image/table10.png" alt="Target Groups" width="700"/>
 
 ## Data
-Sample of Dataset
+`data/kold_v1.json`
 ```
 [
 	{
