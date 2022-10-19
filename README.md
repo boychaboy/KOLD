@@ -19,32 +19,32 @@ Example of Dataset
 		"OFF_span": " 쳐받으면서 왜 차별받는다고 말하는지 말해보라고ㅋㅋㅋ"
 		"TGT_span": ""
 		"raw_labels": [
-                  {'offensiveness': True,
-                   'annotator_id': 191510,
-                   'off_start_idx': [57],
-                   'off_end_idx': [84],
-                   'target': [['group']],
-                   'target_group': [['집단-성 정체성-여성']],
-                   'tgt_start_idx': [],
-                   'tgt_end_idx': []},
-                  {'offensiveness': True,
-                   'annotator_id': 192109,
-                   'off_start_idx': [56],
-                   'off_end_idx': [84],
-                   'target': [['not specified', 'group']],
-                   'target_group': [['집단-성 정체성-페미니스트', '알 수 없음']],
-                   'tgt_start_idx': [],
-                   'tgt_end_idx': []},
-                  {'offensiveness': True,
-                   'annotator_id': 193299,
-                   'off_start_idx': [0],
-                   'off_end_idx': [84],
-                   'target': [['group']],
-                   'target_group': [['집단-성 정체성-페미니스트']],
-                   'tgt_start_idx': [],
-                   'tgt_end_idx': [],}
-                   ]
-   }
+			  {'offensiveness': True,
+			   'annotator_id': 191510,
+			   'off_start_idx': [57],
+			   'off_end_idx': [84],
+			   'target': [['group']],
+			   'target_group': [['집단-성 정체성-여성']],
+			   'tgt_start_idx': [],
+			   'tgt_end_idx': []},
+			  {'offensiveness': True,
+			   'annotator_id': 192109,
+			   'off_start_idx': [56],
+			   'off_end_idx': [84],
+			   'target': [['not specified', 'group']],
+			   'target_group': [['집단-성 정체성-페미니스트', '알 수 없음']],
+			   'tgt_start_idx': [],
+			   'tgt_end_idx': []},
+			  {'offensiveness': True,
+			   'annotator_id': 193299,
+			   'off_start_idx': [0],
+			   'off_end_idx': [84],
+			   'target': [['group']],
+			   'target_group': [['집단-성 정체성-페미니스트']],
+			   'tgt_start_idx': [],
+			   'tgt_end_idx': [],}
+			   ]
+   	}
    ...
 ]
 ```
