@@ -1,6 +1,6 @@
 # 🥶 KOLD: Korean Offensive Language Dataset
 Repository for KOLD dataset, paper accepted in [EMNLP 2022](https://2022.emnlp.org).  
-Authors: Younghoon Jeong, Juhyun Oh, Jongwon Lee, Jaimeen Ahn, Jihyung Moon, Sungjoon Park, and Alice Oh.  
+_Authors: Younghoon Jeong, Juhyun Oh, Jongwon Lee, Jaimeen Ahn, Jihyung Moon, Sungjoon Park, and Alice Oh.  _
 
 ## Paper
 [KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315) (arXiv version)  
