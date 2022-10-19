@@ -7,13 +7,13 @@ _Authors: Younghoon Jeong, Juhyun Oh, Jongwon Lee, Jaimeen Ahn, Jihyung Moon, Su
 _Camera-ready version link TBA_
 
 ### Illustration of annotation Process
-![Annotation Process](image/figure1.png)
+![Annotation Process](image/figure1-min.png)
 
 ### Examples of KOLD
-![Examples](image/table1.png)
+![Examples](image/table1-min.png)
 
 ### Target Groups and Target Group Attributes
-![Target Groups](image/table10.png)
+![Target Groups](image/table10-min.png)
 
 ## Data
 Sample of Dataset
