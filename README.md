@@ -1,7 +1,7 @@
-# 🥶KOLD: Korean Offensive Language Dataset
+# 🥶 KOLD: Korean Offensive Language Dataset
 
 ### Paper
-ArXiv Link: [🔗](https://arxiv.org/abs/2205.11315)
+[arXiv version](https://arxiv.org/abs/2205.11315)
 
 ### Dataset
 Example of Dataset
