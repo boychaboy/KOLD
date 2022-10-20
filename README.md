@@ -9,7 +9,7 @@ _Institutions: KAIST, [Softly AI](https://softly.ai)_
 [KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315) (arXiv version)  
 _Camera-ready version link TBA_
 
-### Illustration of annotation Process
+### Illustration of Annotation Process
 <img src="image/figure1.png" alt="Annotation Process" width="350"/>
 
 ### Examples of KOLD
