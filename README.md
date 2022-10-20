@@ -3,6 +3,8 @@ Repository for the KOLD dataset, paper accepted in [EMNLP 2022](https://2022.emn
 _Authors: Younghoon Jeong, Juhyun Oh, Jongwon Lee, Jaimeen Ahn, Jihyung Moon, Sungjoon Park, and Alice Oh._  
 _Institutions: KAIST, [Softly AI](https://softly.ai)_.
 
+**Note: This dataset must not be used as training data to automatically generate and publish offensive language online, but by publicly releasing it, we cannot prevent all malicious use. We do not condone any malicious use and urge researchers and practitioners to use it in beneficial ways (e.g., to filter out hate speech).**
+
 ## Paper
 [KOLD: Korean Offensive Language Dataset](https://arxiv.org/abs/2205.11315) (arXiv version)  
 _Camera-ready version link TBA_
