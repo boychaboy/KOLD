@@ -1,6 +1,6 @@
 # 🥶 KOLD: Korean Offensive Language Dataset
 Repository for the KOLD dataset, paper accepted in [EMNLP 2022](https://2022.emnlp.org) (main, long).  
-_Authors: [Younghoon Jeong](https://www.linkedin.com/in/younghoon-jeong-5a7834226), [Juhyun Oh](https://www.linkedin.com/in/juhyun-oh-6839b9185/), [Jongwon Lee](https://www.linkedin.com/in/jongwon-jay-lee/), [Jaimeen Ahn](https://www.linkedin.com/in/jaimeenahn/), [Jihyung Moon](https://www.linkedin.com/in/mjihyung/), [Sungjoon Park](https://www.linkedin.com/in/sungjoon-park-815b6456/), and Alice Oh_  
+_Authors: [Younghoon Jeong](https://www.linkedin.com/in/boychaboy), [Juhyun Oh](https://www.linkedin.com/in/juhyun-oh-6839b9185/), [Jongwon Lee](https://www.linkedin.com/in/jongwon-jay-lee/), [Jaimeen Ahn](https://www.linkedin.com/in/jaimeenahn/), [Jihyung Moon](https://www.linkedin.com/in/mjihyung/), [Sungjoon Park](https://www.linkedin.com/in/sungjoon-park-815b6456/), and Alice Oh_  
 _Institutions: KAIST, [Softly AI](https://softly.ai)_
 
 **Note: This dataset must not be used as training data to automatically generate and publish offensive language online, but by publicly releasing it, we cannot prevent all malicious use. We do not condone any malicious use and urge researchers and practitioners to use it in beneficial ways (e.g., to filter out hate speech).**
